@@ -27,6 +27,12 @@ setup(
         , 'safetensors'
         , 'groundingdino-py'
         , 'rembg'
+        , 'numpy'
+        , 'pillow'
+        , 'matplotlib'
+        , 'pyyaml'
+        , 'omegaconf'
+        , 'opencv-python'
     ]
     , include_package_data=True
 )
